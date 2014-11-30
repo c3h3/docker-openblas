@@ -1,5 +1,5 @@
 
-FROM debian:jessie
+FROM ubuntu:14.04.1
 
 ENV DEBIAN_FRONTEND noninteractive
 
